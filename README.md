@@ -4,8 +4,8 @@ This project has 2 branches
 1. Main
 2. Algorithm-test
 
-1. Main Branch
 # React Form Submission Project
+1. Main Branch
 
 This project is a React application for handling form submissions from respondents.
 
@@ -29,3 +29,7 @@ Ensure you have Node.js and npm (or Yarn) installed. Then, install the project d
 4. Start the Development Server
 To start the development server and view the application in your browser, run:
 npm run dev
+
+##Algorithm-test
+1. Algorithm-test
+there are 2 files added in the branch
